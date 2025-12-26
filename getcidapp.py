@@ -21,7 +21,7 @@ import mimetypes
 APP_VERSION = "3.3.0" 
 
 # -------------------------
-# TRANSLATIONS (DATA)
+# TRANSLATIONS (DA
 # -------------------------
 
 LANGUAGES = {
